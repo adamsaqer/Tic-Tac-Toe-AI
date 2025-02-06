@@ -12,7 +12,7 @@ This project is a **simple Tic-Tac-Toe game** where you can play against an AI o
 ## Installation
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/tic-tac-toe-ai.git
+git clone https://github.com/adamsaqer/tic-tac-toe-ai.git
 cd tic-tac-toe-ai
 ```
 
